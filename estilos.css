@@ -1,5 +1,19 @@
+body{
+    background-color: #fffbf7;
+}
 .conten{
     width: 100%;
+    background-color: aqua;
+    height: 100px;
+}
+.container-section-promo{
+    display: flex; 
+    width: 70%;
+    margin: 100px auto;
+    align-items: center;
+}
+.item-article{
+    width: 30%;
     background-color: aqua;
     height: 100px;
 }
